@@ -23,3 +23,5 @@ Issues = "https://github.com/jta/ocbindings/issues"
 
 [tool.setuptools.packages]
 find = {}
+
+[tool.setuptools_scm]
